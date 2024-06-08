@@ -10,7 +10,7 @@ app.get("/", (req, res) => {
   const keluaran = {
     success: true,
     author: "Eksa Dev",
-    sumber: "https://otakudesu.ltd/",
+    sumber: "https://otakudesu.is/",
     pesan:
       "Kami mohon izin kepada pihak otakudesu untuk mengambil data dari web kalian",
     data: {
